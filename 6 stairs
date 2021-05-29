@@ -1,0 +1,32 @@
+ #include<stdio.h>
+
+ Int main() {
+
+    Int n,i,j;
+
+    Printf("number of rows - ");
+ 
+    Scanf("%d,&n);
+
+    For(i=1;I<=n;I++)  {
+
+      
+        For(j=0;j<2*i;j++);
+
+       
+          Printf("%d,j%2):
+
+
+       Printf ("/n");
+
+
+  }
+
+   Return 0;
+
+ }
+ 
+
+
+
+ 
